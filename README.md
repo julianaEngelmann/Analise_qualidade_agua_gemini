@@ -1,10 +1,7 @@
 ## **Análise Qualidade Água Gemini**
-Todo o ser humano tem o direito de ter acesso à água de boa qualidade, pois ela é um elemento
-indispensável em nossa vida. A qualidade desse recurso natural é muito importante para o
-desenvolvimento social e econômico, contribuindo para a saúde pública. Nesse contexto, como
-seria possível avaliar a qualidade da água consumida pela população a partir de um
-conjunto de fatores coletados?
-Esse sistema tem como objetivo avaliar a qualidade da água considerando as diretrizes contidas na portaria No 2914 DE 12/12/2011, informando se ela é potável para o consumo ou não, conforme os valores dos seguintes parâmetros:
+Todo mundo merece ter água de qualidade na torneira, afinal, ninguém vive sem água, né? Água boa é fundamental pra gente viver bem, ser saudável e até pra economia girar. Mas como saber se a água que estamos bebendo é realmente segura?
+Esse sistema tem como objetivo analisar a qualidade da água, levando em conta as regras da Portaria 2914/2011, que diz o que é água boa pra beber. O modelo irá nalisar um monte de fatores e dizer se a água está liberada ou não. 
+Olha só o que a gente precisa ficar de olho:
 - **Turbidez**
 - **pH**
 - **Fluor**
@@ -13,7 +10,7 @@ Esse sistema tem como objetivo avaliar a qualidade da água considerando as dire
 - **Coliformes Totais**
 - **Coliformes Termotolerantes**
 
-O modelo poderia ser usado concessionárias de abastecimento de água para auxiliar na tomada de decisões e também para demais pessoas que gostariam de utilizá-lo.
+O modelo poderia ser usado empresas, pessoas comuns, cientistias e principalmente por concessionárias de abastecimento de água, para auxiliar na tomada de decisões.
 
 ## **Melhorias**
 - Construir uma interface amigável
