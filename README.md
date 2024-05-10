@@ -1,6 +1,7 @@
 ## **Análise da Qualidade da Água com o Gemini**
 Todo mundo merece ter água de qualidade na torneira, afinal, ninguém vive sem água, né? Água boa é fundamental pra gente viver bem, ser saudável e até pra economia girar. Mas como saber se a água que estamos bebendo é realmente segura?
-Esse sistema tem como objetivo analisar a qualidade da água, levando em conta as regras da Portaria 2914/2011, que diz o que é água boa pra beber. O modelo irá nalisar um monte de fatores e dizer se a água está liberada ou não. 
+
+Esse sistema tem como objetivo analisar a qualidade da água, levando em conta as regras da Portaria 2914/2011, que diz o que é água boa pra beber. O modelo irá analisar um monte de fatores e dizer se a água está liberada ou não. 
 Olha só o que a gente precisa ficar de olho:
 - **Turbidez**
 - **pH**
