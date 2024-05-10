@@ -11,7 +11,7 @@ Olha só o que a gente precisa ficar de olho:
 - **Coliformes Totais**
 - **Coliformes Termotolerantes**
 
-O modelo poderia ser usado empresas, pessoas comuns, cientistias e principalmente por concessionárias de abastecimento de água, para auxiliar na tomada de decisões.
+O modelo poderia ser usado por empresas, pessoas comuns, cientistias e principalmente por concessionárias de abastecimento de água, para auxiliar na tomada de decisões.
 
 ## **Melhorias**
 - Construir uma interface amigável
