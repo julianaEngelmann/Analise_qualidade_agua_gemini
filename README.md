@@ -17,5 +17,5 @@ O modelo poderia ser usado concessionárias de abastecimento de água para auxil
 
 ## **Melhorias**
 - Construir uma interface amigável
-- O modelo ler as análises de um arquivo, sem o usuário precisar informar separadamente as análises
+- O modelo poderia ler as análises de um arquivo, sem o usuário precisar informar separadamente as análises
 - O sistema poderia emitir alertas para os usuários, caso houvesse uma piora na qualidade da água, como por exemplo, no mês anterior a turbidez estava com o valor 3, no mês seguinte com o valor 4.7, podemos notar que estava havendo uma piora na qualidade.
